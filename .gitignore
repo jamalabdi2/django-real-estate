@@ -4,3 +4,5 @@
 staticfiles
 mediafiles
 client/node_modules
+.env
+env
