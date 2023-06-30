@@ -1,0 +1,6 @@
+.vscode
+.coverage
+.DS_Store
+staticfiles
+mediafiles
+client/node_modules
